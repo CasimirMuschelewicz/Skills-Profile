@@ -1,2 +1,3 @@
 # Skills-Profile
-Work with Excel/VBA
+Tag 1: Work with Python/Data Analysis
+Tag 2: Work with Excel/VBA
