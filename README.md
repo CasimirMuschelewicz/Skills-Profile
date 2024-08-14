@@ -1,4 +1,4 @@
 # Skills-Profile
-Tag 1: Work with Python/Data Analysis 
+Branch 1: Work with Python/Data Analysis 
 
-Tag 2: Work with Excel/VBA
+Branch 2: Work with Excel/VBA
